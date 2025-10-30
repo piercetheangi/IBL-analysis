@@ -1,3 +1,5 @@
+## NOTE: Written by Nate Miska, modified by Angela (Yaxuan) Yang. 
+
 from datetime import datetime  # Only for formating title
 import json
 import numpy as np
